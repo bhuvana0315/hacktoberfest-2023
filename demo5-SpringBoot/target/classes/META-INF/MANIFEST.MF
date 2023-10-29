@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 17
+Implementation-Title: demo5
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/demo5
+Created-By: Maven Integration for Eclipse
+
